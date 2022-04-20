@@ -1,2 +1,4 @@
-package com.luv2code.springdemo;public class hello {
+package com.luv2code.springdemo;
+
+public class hello {
 }
